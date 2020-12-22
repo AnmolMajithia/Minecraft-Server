@@ -568,16 +568,24 @@
       "minecraft:pillager": "2020-11-30 12:51:01 +0530",
       "minecraft:skeleton": "2020-11-28 19:38:21 +0530",
       "minecraft:ravager": "2020-12-20 18:18:42 +0530",
+      "minecraft:ghast": "2020-12-22 12:23:42 +0530",
       "minecraft:vindicator": "2020-12-20 18:17:52 +0530",
       "minecraft:spider": "2020-11-28 19:45:06 +0530",
       "minecraft:creeper": "2020-12-08 16:59:54 +0530",
       "minecraft:zombified_piglin": "2020-12-04 23:55:31 +0530",
       "minecraft:husk": "2020-12-08 17:40:54 +0530",
       "minecraft:cave_spider": "2020-11-28 19:27:29 +0530",
+      "minecraft:piglin": "2020-12-22 12:14:32 +0530",
       "minecraft:enderman": "2020-12-17 10:24:56 +0530",
       "minecraft:zombie": "2020-11-28 18:32:13 +0530"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-22 12:39:09 +0530"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
@@ -663,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-22 12:39:09 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-11-28 18:10:20 +0530"
@@ -678,6 +692,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2020-11-28 18:06:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2020-12-22 12:39:09 +0530"
     },
     "done": true
   },
@@ -951,6 +971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-22 12:39:09 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-11-28 19:28:19 +0530"
@@ -1209,6 +1235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2020-12-22 12:39:09 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2020-11-30 23:14:06 +0530"
@@ -1281,6 +1313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-22 12:39:09 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-11-28 18:22:02 +0530"
@@ -1314,6 +1352,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2020-12-17 10:33:53 +0530",
+      "minecraft:soul_sand_valley": "2020-12-22 12:19:21 +0530",
       "minecraft:warped_forest": "2020-12-04 23:50:37 +0530",
       "minecraft:basalt_deltas": "2020-12-18 15:03:02 +0530"
     },
@@ -1406,6 +1445,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-11-28 18:59:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2020-12-22 12:19:27 +0530"
     },
     "done": true
   },
@@ -1640,6 +1685,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2020-12-04 21:48:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-22 12:39:09 +0530"
     },
     "done": true
   },
@@ -2572,6 +2623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2020-12-22 12:34:37 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-12-01 19:08:46 +0530"
@@ -2815,6 +2872,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2020-11-28 19:37:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2020-12-22 12:34:37 +0530"
     },
     "done": true
   },

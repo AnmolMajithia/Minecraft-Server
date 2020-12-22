@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-12-22 12:24:36 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-11-28 18:08:12 +0530"
@@ -1552,10 +1558,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2020-12-18 15:06:01 +0530",
       "minecraft:nether_wastes": "2020-12-18 14:53:23 +0530",
+      "minecraft:soul_sand_valley": "2020-12-22 12:18:34 +0530",
       "minecraft:warped_forest": "2020-12-04 23:48:50 +0530",
       "minecraft:basalt_deltas": "2020-12-18 15:14:23 +0530"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -1656,6 +1663,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-12-01 19:25:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2020-12-22 12:20:37 +0530"
     },
     "done": true
   },
