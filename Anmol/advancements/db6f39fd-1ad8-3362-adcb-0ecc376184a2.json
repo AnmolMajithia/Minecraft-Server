@@ -755,6 +755,7 @@
       "minecraft:blaze": "2020-12-23 06:19:39 +0530",
       "minecraft:skeleton": "2020-11-28 19:22:49 +0530",
       "minecraft:ghast": "2020-12-26 17:06:39 +0530",
+      "minecraft:hoglin": "2020-12-27 20:17:34 +0530",
       "minecraft:magma_cube": "2020-12-23 06:27:38 +0530",
       "minecraft:spider": "2020-11-28 19:24:10 +0530",
       "minecraft:piglin_brute": "2020-12-26 17:01:46 +0530",
@@ -3536,6 +3537,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2020-12-25 19:22:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2020-12-27 20:24:01 +0530"
     },
     "done": true
   },
