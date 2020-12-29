@@ -1,0 +1,5 @@
+50 45 -550 Fortress
+-100 32 -511 lava lake bastion
+-200 32 -360 Ruined portal
+-131 38 -87 Bastion
+

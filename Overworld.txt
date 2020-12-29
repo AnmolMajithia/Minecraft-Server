@@ -1,0 +1,5 @@
+870 71 -20 White horses
+1000 69 37 Godspeed horse
+1270 70 123 Vileg
+2575 64 -207 Ghada
+4100 63 1170 Zombie villeger
