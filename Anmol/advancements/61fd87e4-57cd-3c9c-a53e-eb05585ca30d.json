@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-12-29 15:57:34 +0530"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2020-12-27 17:11:32 +0530"
@@ -131,9 +137,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-29 15:44:52 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2020-12-02 22:05:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-12-29 14:32:02 +0530"
     },
     "done": true
   },
@@ -188,6 +206,12 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2020-12-29 14:26:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-29 15:44:52 +0530"
     },
     "done": true
   },
@@ -293,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2020-12-29 14:33:34 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-12-02 21:51:49 +0530"
@@ -341,9 +371,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-12-29 15:36:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-12-29 14:30:54 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_reeds": "2020-12-02 21:55:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-29 15:44:52 +0530"
     },
     "done": true
   },
@@ -356,6 +404,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2020-12-02 22:19:13 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2020-12-29 15:57:34 +0530"
     },
     "done": true
   },
@@ -415,15 +469,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2020-12-29 14:32:02 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-12-02 22:04:31 +0530"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-12-29 15:57:34 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-12-27 17:19:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2020-12-29 14:30:54 +0530"
     },
     "done": true
   },
@@ -487,6 +559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-29 15:44:52 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2020-12-07 14:51:13 +0530"
@@ -499,9 +577,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2020-12-29 15:57:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-12-29 15:57:04 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2020-12-02 22:17:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2020-12-29 15:57:34 +0530"
     },
     "done": true
   },
@@ -514,6 +610,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2020-12-07 14:51:13 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2020-12-29 15:57:34 +0530"
     },
     "done": true
   },
@@ -541,9 +643,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-12-29 14:32:02 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2020-12-02 23:31:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-29 15:44:52 +0530"
     },
     "done": true
   },
@@ -691,9 +805,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-29 15:44:52 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-12-02 23:21:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-12-29 14:30:54 +0530"
     },
     "done": true
   },
@@ -775,6 +901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2020-12-29 14:34:09 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2020-12-07 14:51:13 +0530"
@@ -844,7 +976,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2020-12-27 17:21:46 +0530",
-      "minecraft:cave_spider": "2020-12-07 15:07:33 +0530"
+      "minecraft:spider": "2020-12-29 15:56:51 +0530",
+      "minecraft:creeper": "2020-12-29 15:33:54 +0530",
+      "minecraft:witch": "2020-12-29 15:34:05 +0530",
+      "minecraft:cave_spider": "2020-12-07 15:07:33 +0530",
+      "minecraft:zombie": "2020-12-29 14:42:58 +0530"
     },
     "done": false
   },
@@ -863,6 +999,18 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2020-12-02 23:15:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2020-12-29 15:48:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2020-12-29 14:30:54 +0530"
     },
     "done": true
   },
@@ -926,6 +1074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-12-29 14:30:54 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-12-27 17:21:18 +0530"
@@ -974,6 +1128,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-12-29 14:30:54 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-12-02 21:51:49 +0530"
@@ -983,6 +1143,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-12-27 17:21:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2020-12-29 14:39:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-12-29 15:57:34 +0530"
     },
     "done": true
   },
@@ -998,6 +1170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_blasting": {
+    "criteria": {
+      "has_redstone_ore": "2020-12-29 14:33:32 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-12-02 22:50:30 +0530"
@@ -1010,6 +1188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-29 15:44:52 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2020-12-02 23:12:40 +0530"
@@ -1019,6 +1203,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2020-12-02 23:31:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2020-12-29 14:30:54 +0530"
     },
     "done": true
   },
@@ -1037,6 +1227,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-12-29 14:28:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-29 15:44:52 +0530"
     },
     "done": true
   },
@@ -1061,6 +1257,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2020-12-02 22:27:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-12-29 14:32:02 +0530"
     },
     "done": true
   },
@@ -1097,6 +1299,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2020-12-27 17:21:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2020-12-29 15:32:03 +0530"
     },
     "done": true
   },
@@ -1142,6 +1350,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-29 15:44:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2020-12-29 15:25:43 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2020-12-02 23:31:47 +0530"
@@ -1184,9 +1404,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2020-12-29 14:32:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2020-12-29 14:39:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-12-27 17:21:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-12-29 14:30:54 +0530"
     },
     "done": true
   },
@@ -1196,15 +1434,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-29 15:44:52 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-12-02 22:04:31 +0530"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2020-12-29 14:32:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-29 15:44:52 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2020-12-02 23:31:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-12-29 15:57:34 +0530"
     },
     "done": true
   },
@@ -1244,6 +1506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2020-12-29 15:57:34 +0530"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2020-12-27 17:17:00 +0530"
@@ -1265,6 +1533,12 @@
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-12-02 22:50:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-12-29 15:57:34 +0530"
     },
     "done": true
   },
@@ -1316,6 +1590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-12-29 15:57:34 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-12-27 17:21:18 +0530"
@@ -1331,6 +1611,18 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2020-12-02 22:19:13 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-12-29 14:30:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-12-29 14:32:02 +0530"
     },
     "done": true
   },
@@ -1358,6 +1650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2020-12-29 15:32:03 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-12-02 23:15:04 +0530"
@@ -1373,6 +1671,24 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:cave_spider": "2020-12-07 15:07:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-29 15:44:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2020-12-29 14:33:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2020-12-29 14:32:02 +0530"
     },
     "done": true
   },
@@ -1420,10 +1736,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-12-29 15:43:43 +0530",
+      "minecraft:forest": "2020-12-29 15:38:29 +0530",
       "minecraft:desert_hills": "2020-12-02 21:51:31 +0530",
+      "minecraft:deep_cold_ocean": "2020-12-29 15:50:27 +0530",
       "minecraft:desert": "2020-12-02 21:51:09 +0530",
+      "minecraft:deep_frozen_ocean": "2020-12-29 15:47:59 +0530",
+      "minecraft:badlands": "2020-12-29 15:49:06 +0530",
       "minecraft:savanna_plateau": "2020-12-02 21:59:14 +0530",
+      "minecraft:beach": "2020-12-29 15:34:41 +0530",
       "minecraft:river": "2020-12-02 21:51:36 +0530",
+      "minecraft:lukewarm_ocean": "2020-12-29 15:55:44 +0530",
+      "minecraft:wooded_hills": "2020-12-29 15:39:07 +0530",
+      "minecraft:stone_shore": "2020-12-29 15:51:49 +0530",
       "minecraft:savanna": "2020-12-02 21:51:52 +0530",
       "minecraft:plains": "2020-12-02 21:49:57 +0530"
     },
@@ -1498,6 +1823,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-12-27 17:21:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting": {
+    "criteria": {
+      "has_redstone_ore": "2020-12-29 14:33:32 +0530"
     },
     "done": true
   },
@@ -1603,6 +1934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2020-12-29 14:30:54 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-12-27 17:21:18 +0530"
@@ -1618,6 +1955,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2020-12-02 23:15:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-29 15:44:52 +0530"
     },
     "done": true
   },
@@ -1648,6 +1991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2020-12-29 15:57:34 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-12-02 22:50:30 +0530"
@@ -1666,9 +2015,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2020-12-29 15:25:43 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2020-12-02 22:27:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_diamond_ore": "2020-12-29 14:34:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2020-12-29 14:32:02 +0530"
     },
     "done": true
   },
