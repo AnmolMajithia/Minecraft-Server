@@ -7,3 +7,5 @@
 1000 68 -1000 Flowers af
 1547 31 -1148 End
 1545 64 -1146 End entry
+-795 64 -461 Raider log
+-1400 -400 Vileg
