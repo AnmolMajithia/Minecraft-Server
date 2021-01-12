@@ -1324,6 +1324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2021-01-12 17:55:47 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-28 18:20:51 +0530"
@@ -2985,6 +2991,12 @@
   "minecraft:nether/use_lodestone": {
     "criteria": {
       "use_lodestone": "2020-12-26 17:33:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2021-01-12 17:56:12 +0530"
     },
     "done": true
   },
