@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-01-16 23:37:02 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-11-30 23:14:06 +0530"
@@ -242,6 +248,18 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2020-12-02 22:45:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2021-01-16 23:28:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2021-01-16 23:22:52 +0530"
     },
     "done": true
   },
@@ -311,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-01-16 23:28:48 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-11-28 18:06:55 +0530"
@@ -374,6 +398,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-11-28 18:20:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2021-01-16 23:28:51 +0530"
     },
     "done": true
   },
@@ -599,6 +629,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2021-01-16 23:28:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2021-01-16 23:28:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-12-02 22:07:35 +0530"
@@ -652,6 +694,7 @@
       "minecraft:zombified_piglin": "2020-12-04 23:55:31 +0530",
       "minecraft:wither_skeleton": "2020-12-23 06:19:10 +0530",
       "minecraft:husk": "2020-12-08 17:40:54 +0530",
+      "minecraft:shulker": "2021-01-16 23:30:49 +0530",
       "minecraft:cave_spider": "2020-11-28 19:27:29 +0530",
       "minecraft:piglin": "2020-12-22 12:14:32 +0530",
       "minecraft:enderman": "2020-12-17 10:24:56 +0530",
@@ -840,6 +883,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-01-16 22:57:39 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-01 00:13:05 +0530"
@@ -903,6 +952,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2020-12-23 06:18:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-01-16 23:01:32 +0530"
     },
     "done": true
   },
@@ -1065,6 +1120,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2020-11-28 17:55:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2021-01-16 23:28:51 +0530"
     },
     "done": true
   },
@@ -1352,6 +1413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2021-01-16 23:28:48 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-11-28 17:59:25 +0530"
@@ -1487,6 +1554,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2020-11-28 18:13:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2021-01-16 23:28:51 +0530"
     },
     "done": true
   },
@@ -1758,6 +1831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-01-16 23:28:48 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2020-11-28 18:55:14 +0530"
@@ -1809,6 +1888,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-12-02 22:07:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-01-16 23:20:51 +0530"
     },
     "done": true
   },
@@ -1902,6 +1987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2021-01-16 23:28:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-11-28 18:59:39 +0530"
@@ -1931,12 +2022,14 @@
       "cooked_porkchop": "2020-12-01 19:49:05 +0530",
       "cooked_mutton": "2020-11-30 23:39:28 +0530",
       "cooked_beef": "2020-11-30 23:14:47 +0530",
+      "chorus_fruit": "2021-01-17 00:11:54 +0530",
       "apple": "2020-12-03 23:53:47 +0530",
       "potato": "2020-12-11 17:45:07 +0530",
       "pumpkin_pie": "2020-12-20 18:53:53 +0530",
       "bread": "2020-11-28 18:01:46 +0530",
       "golden_apple": "2021-01-01 20:13:16 +0530",
       "melon_slice": "2020-12-02 23:24:50 +0530",
+      "golden_carrot": "2021-01-16 23:06:41 +0530",
       "cooked_chicken": "2020-12-01 00:27:32 +0530",
       "cooked_salmon": "2020-12-01 18:52:10 +0530"
     },
@@ -2670,6 +2763,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-01-16 23:20:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-01-16 23:20:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-11-28 18:59:39 +0530"
@@ -2874,6 +2979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2021-01-16 23:31:45 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2020-12-23 06:37:35 +0530"
@@ -2940,6 +3051,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2021-01-16 23:28:27 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2020-12-23 06:18:06 +0530"
@@ -2955,6 +3072,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-12-01 19:08:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2021-01-16 23:20:08 +0530"
     },
     "done": true
   },
@@ -3126,6 +3249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2021-01-16 23:20:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-11-28 18:06:55 +0530"
@@ -3156,6 +3285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2021-01-16 23:28:48 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-11-28 18:11:24 +0530"
@@ -3177,6 +3312,18 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-12-02 22:07:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-01-16 23:01:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-01-16 23:20:51 +0530"
     },
     "done": true
   },
@@ -3237,6 +3384,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2020-11-28 19:37:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-01-16 23:28:48 +0530"
     },
     "done": true
   },
