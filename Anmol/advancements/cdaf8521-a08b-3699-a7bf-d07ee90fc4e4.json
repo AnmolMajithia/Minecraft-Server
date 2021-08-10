@@ -485,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2021-08-10 10:47:21 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2021-01-09 15:24:57 +0530"
@@ -851,9 +857,11 @@
       "minecraft:pillager": "2021-08-10 10:38:57 +0530",
       "minecraft:skeleton": "2021-01-09 16:11:15 +0530",
       "minecraft:elder_guardian": "2021-01-29 15:17:04 +0530",
+      "minecraft:ravager": "2021-08-10 10:49:14 +0530",
       "minecraft:ghast": "2021-01-19 09:25:18 +0530",
       "minecraft:hoglin": "2021-01-19 09:40:17 +0530",
       "minecraft:guardian": "2021-01-29 15:09:48 +0530",
+      "minecraft:vindicator": "2021-08-10 10:48:23 +0530",
       "minecraft:magma_cube": "2021-07-25 16:26:38 +0530",
       "minecraft:spider": "2021-01-09 16:09:58 +0530",
       "minecraft:piglin_brute": "2021-07-25 16:48:50 +0530",
@@ -2204,6 +2212,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2021-01-29 17:33:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2021-08-10 10:52:14 +0530"
     },
     "done": true
   },
