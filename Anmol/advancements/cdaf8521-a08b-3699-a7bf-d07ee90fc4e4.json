@@ -1637,6 +1637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_glazed_terracotta": {
+    "criteria": {
+      "has_magenta_terracotta": "2021-08-17 21:00:07 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2021-01-09 15:33:39 +0530"
